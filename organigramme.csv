@@ -1,0 +1,39 @@
+﻿ID,Parent_ID,Niveau,Entite,Superieur_Direct,Type
+1,,1,Directeur de L'ISET,,Direction
+2,1,2,Conseil Scientifique et Technologique,Directeur de L'ISET,Organe consultatif / Conseil
+3,1,2,Secrétariat (Direction),Directeur de L'ISET,Secrétariat
+4,1,2,Comité de direction,Directeur de L'ISET,Comité
+5,1,2,Directeur des Etudes et des Stages,Directeur de L'ISET,Direction
+6,1,2,Secrétaire Générale,Directeur de L'ISET,Administration
+7,5,3,Secrétariat (Direction des Etudes et des Stages),Directeur des Etudes et des Stages,Secrétariat
+8,5,3,Département S.Economiques et Gestion,Directeur des Etudes et des Stages,Département
+9,5,3,Département Technologies de L'informatique,Directeur des Etudes et des Stages,Département
+10,5,3,Département Génie mécanique,Directeur des Etudes et des Stages,Département
+11,5,3,Département Génie Electrique,Directeur des Etudes et des Stages,Département
+12,5,3,Département Génie des Procédés,Directeur des Etudes et des Stages,Département
+13,5,3,Service Formation continue et relations extérieures,Directeur des Etudes et des Stages,Service
+14,5,3,Centre 4C,Directeur des Etudes et des Stages,Centre
+15,5,3,Service des Stages et PFEs,Directeur des Etudes et des Stages,Service
+16,5,3,"Laboratoires , Ateliers et Centre Informatique",Directeur des Etudes et des Stages,Structure pédagogique
+17,13,4,Enseignement à distance,Service Formation continue et relations extérieures,Sous-unité / Activité
+18,13,4,Partenariat et relations extérieures,Service Formation continue et relations extérieures,Sous-unité / Activité
+19,15,4,Suivi des diplômés,Service des Stages et PFEs,Sous-unité / Activité
+20,6,3,Secrétariat (Secrétariat Général),Secrétaire Générale,Secrétariat
+21,6,3,Bureau d'ordre,Secrétaire Générale,Bureau
+22,6,3,Service Tirage,Secrétaire Générale,Service
+23,6,3,Service des Activités Socioculturelles,Secrétaire Générale,Service
+24,6,3,Secrétaire principale,Secrétaire Générale,Administration
+25,6,3,Service technique et maintenance,Secrétaire Générale,Service
+26,6,3,Secrétaire d'établissement,Secrétaire Générale,Administration
+27,6,3,Service scolarité,Secrétaire Générale,Service
+28,6,3,Service suivi des cours,Secrétaire Générale,Service
+29,6,3,Service examens,Secrétaire Générale,Service
+30,6,3,Service personnels,Secrétaire Générale,Service
+31,6,3,Service financier,Secrétaire Générale,Service
+32,6,3,Service achats,Secrétaire Générale,Service
+33,6,3,Magasin,Secrétaire Générale,Service / Unité
+34,6,3,Bibliothèque,Secrétaire Générale,Service / Unité
+35,6,3,Service archives,Secrétaire Générale,Service
+36,6,3,Strandard,Secrétaire Générale,Service / Accueil
+37,6,3,Service de communication,Secrétaire Générale,Service
+38,6,3,Cellule d'écoute,Secrétaire Générale,Cellule

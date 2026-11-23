@@ -1,0 +1,304 @@
+﻿Mention,Specialite,Code_Parcours,Niveau,Semestre,Type_UE,Unite_Enseignement,Matiere,Credits,Coefficient,Credits_UE,Coefficient_UE
+Génie Electrique,Tronc commun,LI576399,L1,S1,Obligatoire,Circuits et mesures électriques,Mesures et Métrologie,1.5,0.75,5,2.5
+Génie Electrique,Tronc commun,LI576399,L1,S1,Obligatoire,Circuits et mesures électriques,Atelier circuits électriques et mesures,1.5,0.75,5,2.5
+Génie Electrique,Tronc commun,LI576399,L1,S1,Obligatoire,Circuits et mesures électriques,Circuits électriques,2,1,5,2.5
+Génie Electrique,Tronc commun,LI576399,L1,S1,Obligatoire,Installation Électrique,Installations domestiques,2,1,5,2.5
+Génie Electrique,Tronc commun,LI576399,L1,S1,Obligatoire,Installation Électrique,Appareillages électriques,2,1,5,2.5
+Génie Electrique,Tronc commun,LI576399,L1,S1,Obligatoire,Installation Électrique,Atelier Installations domestiques,1,0.5,5,2.5
+Génie Electrique,Tronc commun,LI576399,L1,S1,Obligatoire,Mathématique et physique 1,Mathématiques 1,2,1,5,2.5
+Génie Electrique,Tronc commun,LI576399,L1,S1,Obligatoire,Mathématique et physique 1,Atelier physique,1.5,0.75,5,2.5
+Génie Electrique,Tronc commun,LI576399,L1,S1,Obligatoire,Mathématique et physique 1,Physique 1,1.5,0.75,5,2.5
+Génie Electrique,Tronc commun,LI576399,L1,S1,Obligatoire,Traitement de Données 1,Atelier systèmes logiques 1,1,0.5,6,3
+Génie Electrique,Tronc commun,LI576399,L1,S1,Obligatoire,Traitement de Données 1,Atelier Programmation Structurée 1,1,0.5,6,3
+Génie Electrique,Tronc commun,LI576399,L1,S1,Obligatoire,Traitement de Données 1,Systèmes logiques 1,2,1,6,3
+Génie Electrique,Tronc commun,LI576399,L1,S1,Obligatoire,Traitement de Données 1,Programmation structurée 1,2,1,6,3
+Génie Electrique,Tronc commun,LI576399,L1,S1,Obligatoire,Unité transversale 1,Anglais 1,1.5,0.75,5,2.5
+Génie Electrique,Tronc commun,LI576399,L1,S1,Obligatoire,Unité transversale 1,CCN 1,2,1,5,2.5
+Génie Electrique,Tronc commun,LI576399,L1,S1,Obligatoire,Unité transversale 1,Français,1.5,0.75,5,2.5
+Génie Electrique,Tronc commun,LI576399,L1,S1,Optionnelle,Unité optionnelle S1,CAO Électronique 1,2,1,4,2
+Génie Electrique,Tronc commun,LI576399,L1,S1,Optionnelle,Unité optionnelle S1,CAO Électrique 1,2,1,4,2
+Génie Electrique,Tronc commun,LI576399,L1,S2,Obligatoire,Installations électrique 2,Sécurité et habilitation électriques,1.5,0.75,5,2.5
+Génie Electrique,Tronc commun,LI576399,L1,S2,Obligatoire,Installations électrique 2,Atelier sécurité électrique,1,0.5,5,2.5
+Génie Electrique,Tronc commun,LI576399,L1,S2,Obligatoire,Installations électrique 2,Installations Industrielles,1.5,0.75,5,2.5
+Génie Electrique,Tronc commun,LI576399,L1,S2,Obligatoire,Installations électrique 2,Atelier Installations industrielles,1,0.5,5,2.5
+Génie Electrique,Tronc commun,LI576399,L1,S2,Obligatoire,Mathématiques et physique 2,Physique 2,1.5,0.75,4,2
+Génie Electrique,Tronc commun,LI576399,L1,S2,Obligatoire,Mathématiques et physique 2,Mathématiques 2,2.5,1.25,4,2
+Génie Electrique,Tronc commun,LI576399,L1,S2,Obligatoire,Traitement de Données 2,Systèmes logiques 2,2,1,6,3
+Génie Electrique,Tronc commun,LI576399,L1,S2,Obligatoire,Traitement de Données 2,Programmation structurée 2,2,1,6,3
+Génie Electrique,Tronc commun,LI576399,L1,S2,Obligatoire,Traitement de Données 2,Atelier Programmation structurée 2,1,0.5,6,3
+Génie Electrique,Tronc commun,LI576399,L1,S2,Obligatoire,Traitement de Données 2,Atelier systèmes logiques 2,1,0.5,6,3
+Génie Electrique,Tronc commun,LI576399,L1,S2,Obligatoire,Unité transversale 2,CCN 2,2,1,5,2.5
+Génie Electrique,Tronc commun,LI576399,L1,S2,Obligatoire,Unité transversale 2,Techniques de communication,1.5,0.75,5,2.5
+Génie Electrique,Tronc commun,LI576399,L1,S2,Obligatoire,Unité transversale 2,Anglais 2,1.5,0.75,5,2.5
+Génie Electrique,Tronc commun,LI576399,L1,S2,Obligatoire,Électronique 1,Atelier électronique 1,1.5,0.75,4,2
+Génie Electrique,Tronc commun,LI576399,L1,S2,Obligatoire,Électronique 1,Électronique 1,2.5,1.25,4,2
+Génie Electrique,Tronc commun,LI576399,L1,S2,Optionnelle,Unité optionnelle 2 : Résolution numérique et CAO 2,Résolution Numérique,2,1,6,3
+Génie Electrique,Tronc commun,LI576399,L1,S2,Optionnelle,Unité optionnelle 2 : Résolution numérique et CAO 2,CAO Électronique 2,2,1,6,3
+Génie Electrique,Tronc commun,LI576399,L1,S2,Optionnelle,Unité optionnelle 2 : Résolution numérique et CAO 2,CAO Électrique 2,2,1,6,3
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L2,S3,Obligatoire,Automatique 1,Atelier Automatique,2,1,4,2
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L2,S3,Obligatoire,Automatique 1,Système Asservis linéaires continus,2,1,4,2
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L2,S3,Obligatoire,Automatisme et Instrumentation industrielle,Atelier Automatisme Industriels,1.5,0.75,5,2.5
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L2,S3,Obligatoire,Automatisme et Instrumentation industrielle,Instrumentation Industrielle,1,0.5,5,2.5
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L2,S3,Obligatoire,Automatisme et Instrumentation industrielle,Atelier Instrumentation industrielle,1,0.5,5,2.5
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L2,S3,Obligatoire,Automatisme et Instrumentation industrielle,Automatismes Industriels,1.5,0.75,5,2.5
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L2,S3,Obligatoire,Unité transversale 3,Droit,1.5,0.75,5.5,2.75
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L2,S3,Obligatoire,Unité transversale 3,Anglais technique,2,1,5.5,2.75
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L2,S3,Obligatoire,Unité transversale 3,Préparation à la certification en français 1,2,1,5.5,2.75
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L2,S3,Obligatoire,Électronique et traitement de signal,Électronique analogique,1.5,0.75,4.5,2.25
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L2,S3,Obligatoire,Électronique et traitement de signal,Traitement du signal,1.5,0.75,4.5,2.25
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L2,S3,Obligatoire,Électronique et traitement de signal,Atelier Électronique analogique,1.5,0.75,4.5,2.25
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L2,S3,Obligatoire,Électrotechnique et Électronique de Puissance,Atelier Électronique de puissance,1,0.5,5,2.5
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L2,S3,Obligatoire,Électrotechnique et Électronique de Puissance,Électrotechnique,1.5,0.75,5,2.5
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L2,S3,Obligatoire,Électrotechnique et Électronique de Puissance,Atelier Électrotechnique,1,0.5,5,2.5
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L2,S3,Obligatoire,Électrotechnique et Électronique de Puissance,Électronique de Puissance,1.5,0.75,5,2.5
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L2,S3,Optionnelle,Unité optionnelle 1,Programmation Matlab,3,1.5,6,3
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L2,S3,Optionnelle,Unité optionnelle 1,Atelier Matlab,3,1.5,6,3
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L2,S4,Obligatoire,Automatique 2,Modélisation des systemes,1.5,0.75,4.5,2.25
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L2,S4,Obligatoire,Automatique 2,Système Echantillonnés,1.5,0.75,4.5,2.25
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L2,S4,Obligatoire,Automatique 2,Atelier Automatique 2,1.5,0.75,4.5,2.25
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L2,S4,Obligatoire,Microcontrôleurs,Atelier Microcontrôleurs,2,1,4,2
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L2,S4,Obligatoire,Microcontrôleurs,Microcontrôleurs,2,1,4,2
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L2,S4,Obligatoire,Système Automatisés 1,Réseaux Locaux Industriels,1.5,0.75,5,2.5
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L2,S4,Obligatoire,Système Automatisés 1,Atelier Systèmes Automatisés 1,2,1,5,2.5
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L2,S4,Obligatoire,Système Automatisés 1,Programmation Avancée des API,1.5,0.75,5,2.5
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L2,S4,Obligatoire,Systèmes Informatiques,Atelier de développement informatique,2,1,4,2
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L2,S4,Obligatoire,Systèmes Informatiques,Base de données,2,1,4,2
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L2,S4,Obligatoire,Unité transversale 4,Préparation à la certification en Français 2,2,1,5.5,2.75
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L2,S4,Obligatoire,Unité transversale 4,Préparation à la certification en Anglais 1,2,1,5.5,2.75
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L2,S4,Obligatoire,Unité transversale 4,Culture Entrepreneuriale,1.5,0.75,5.5,2.75
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L2,S4,Optionnelle,Unité optionnelle 2,Machine Learning,2,1,7,3.5
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L2,S4,Optionnelle,Unité optionnelle 2,Variables d'états,2,1,7,3.5
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L2,S4,Optionnelle,Unité optionnelle 2,Atelier Machine Learning,3,1.5,7,3.5
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L3,S5,Obligatoire,Circuits Programmables,Circuits FPGA,1.5,0.75,5,2.5
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L3,S5,Obligatoire,Circuits Programmables,Circuits DSPs,1.5,0.75,5,2.5
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L3,S5,Obligatoire,Circuits Programmables,Atelier Circuits Programmables,2,1,5,2.5
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L3,S5,Obligatoire,Commande Numérique de Processus,Atelier Régulation Industrielle,1,0.5,5,2.5
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L3,S5,Obligatoire,Commande Numérique de Processus,Supervision des Processus,1.5,0.75,5,2.5
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L3,S5,Obligatoire,Commande Numérique de Processus,Régulation industrielle,1.5,0.75,5,2.5
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L3,S5,Obligatoire,Commande Numérique de Processus,Atelier Supervision des Processus Industriels,1,0.5,5,2.5
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L3,S5,Obligatoire,Qualité et Maintenance,Qualité et Maintenance,2,1,4,2
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L3,S5,Obligatoire,Qualité et Maintenance,Atelier Qualité et Maintenance,2,1,4,2
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L3,S5,Obligatoire,Système Automatisés 2,Systèmes Temps Réel,1.5,0.75,5,2.5
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L3,S5,Obligatoire,Système Automatisés 2,Systèmes Robotisés,1.5,0.75,5,2.5
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L3,S5,Obligatoire,Système Automatisés 2,Atelier Systèmes Robotisés,1,0.5,5,2.5
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L3,S5,Obligatoire,Système Automatisés 2,Atelier Systèmes Temps Réel,1,0.5,5,2.5
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L3,S5,Obligatoire,Unité Transversale 5,Préparation à la certification en Anglais 2,2,1,4,2
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L3,S5,Obligatoire,Unité Transversale 5,Création d'entreprise,2,1,4,2
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L3,S5,Optionnelle,Unité optionnelle,Résolution numérique,2,1,7,3.5
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L3,S5,Optionnelle,Unité optionnelle,Créativité,2,1,7,3.5
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L3,S5,Optionnelle,Unité optionnelle,Atelier Résolution numérique,3,1.5,7,3.5
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L3,S6,Obligatoire,Stage,Stage de fin du parcours,20,10,30,15
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L3,S6,Obligatoire,Stage,Stage de perfectionnement,5,2.5,30,15
+Génie Electrique,Automatismes et Informatique Industrielle,LI576305,L3,S6,Obligatoire,Stage,Stage d'initiation,5,2.5,30,15
+Génie Mécanique,Tronc commun,LI576499,L1,S1,Obligatoire,Construction Mécaniques 1,Atelier Construction Mécanique 1,3,1.5,5.5,2.75
+Génie Mécanique,Tronc commun,LI576499,L1,S1,Obligatoire,Construction Mécaniques 1,Construction Mécanique 1,2.5,1.25,5.5,2.75
+Génie Mécanique,Tronc commun,LI576499,L1,S1,Obligatoire,Mathématiques 1,Analyse 1,2,1,4,2
+Génie Mécanique,Tronc commun,LI576499,L1,S1,Obligatoire,Mathématiques 1,Algèbre,2,1,4,2
+Génie Mécanique,Tronc commun,LI576499,L1,S1,Obligatoire,Mécaniques 1,Statique et Cinématique des solides,2,1,5.5,2.75
+Génie Mécanique,Tronc commun,LI576499,L1,S1,Obligatoire,Mécaniques 1,RDM 1,2,1,5.5,2.75
+Génie Mécanique,Tronc commun,LI576499,L1,S1,Obligatoire,Mécaniques 1,Atelier de mécanique 1,1.5,0.75,5.5,2.75
+Génie Mécanique,Tronc commun,LI576499,L1,S1,Obligatoire,Procédés et Méthodes de Production 1,Procédés et Méthodes de Production 1,2.5,1.25,5.5,2.75
+Génie Mécanique,Tronc commun,LI576499,L1,S1,Obligatoire,Procédés et Méthodes de Production 1,Atelier Procédés et Méthodes de Production 1,3,1.5,5.5,2.75
+Génie Mécanique,Tronc commun,LI576499,L1,S1,Obligatoire,Sciences des matériaux,Atelier Sciences des matériaux,1.5,0.75,4.5,2.25
+Génie Mécanique,Tronc commun,LI576499,L1,S1,Obligatoire,Sciences des matériaux,Sciences des matériaux,3,1.5,4.5,2.25
+Génie Mécanique,Tronc commun,LI576499,L1,S1,Obligatoire,Unité transversale,Français,1.5,0.75,5,2.5
+Génie Mécanique,Tronc commun,LI576499,L1,S1,Obligatoire,Unité transversale,Anglais 1,1.5,0.75,5,2.5
+Génie Mécanique,Tronc commun,LI576499,L1,S1,Obligatoire,Unité transversale,CCN 1,2,1,5,2.5
+Génie Mécanique,Tronc commun,LI576499,L1,S2,Obligatoire,Construction Mécanique 2,Construction Mécanique 2,2.5,1.25,5,2.5
+Génie Mécanique,Tronc commun,LI576499,L1,S2,Obligatoire,Construction Mécanique 2,Atelier construction Mécanique 2,2.5,1.25,5,2.5
+Génie Mécanique,Tronc commun,LI576499,L1,S2,Obligatoire,Mathématiques 2,Statistiques,2,1,4,2
+Génie Mécanique,Tronc commun,LI576499,L1,S2,Obligatoire,Mathématiques 2,Analyse 2,2,1,4,2
+Génie Mécanique,Tronc commun,LI576499,L1,S2,Obligatoire,Mécanique 2,Dynamique du solide et énergétique,2,1,5.5,2.75
+Génie Mécanique,Tronc commun,LI576499,L1,S2,Obligatoire,Mécanique 2,Atelier de Mécanique 2,1.5,0.75,5.5,2.75
+Génie Mécanique,Tronc commun,LI576499,L1,S2,Obligatoire,Mécanique 2,RDM 2,2,1,5.5,2.75
+Génie Mécanique,Tronc commun,LI576499,L1,S2,Obligatoire,Procédés et Méthodes de Production 2,Procédés et Méthodes de production 2,2.5,1.25,4.5,2.25
+Génie Mécanique,Tronc commun,LI576499,L1,S2,Obligatoire,Procédés et Méthodes de Production 2,Atelier Procédés et Méthodes de production 2,2,1,4.5,2.25
+Génie Mécanique,Tronc commun,LI576499,L1,S2,Obligatoire,Unité transversale,Techniques de communication,1.5,0.75,5,2.5
+Génie Mécanique,Tronc commun,LI576499,L1,S2,Obligatoire,Unité transversale,CCN 2,2,1,5,2.5
+Génie Mécanique,Tronc commun,LI576499,L1,S2,Obligatoire,Unité transversale,Anglais 2,1.5,0.75,5,2.5
+Génie Mécanique,Tronc commun,LI576499,L1,S2,Optionnelle,Unité optionnelle 1.1,Électronique,1.5,0.75,6,3
+Génie Mécanique,Tronc commun,LI576499,L1,S2,Optionnelle,Unité optionnelle 1.1,Électrotechnique,1.5,0.75,6,3
+Génie Mécanique,Tronc commun,LI576499,L1,S2,Optionnelle,Unité optionnelle 1.1,Atelier optionnel 1.1 : Certification SolidWorks (CSWA),1.5,0.75,6,3
+Génie Mécanique,Tronc commun,LI576499,L1,S2,Optionnelle,Unité optionnelle 1.1,Atelier Électronique et Électrotechnique,1.5,0.75,6,3
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L2,S3,Obligatoire,Automatique,Automatismes industriels,1.5,0.75,5.5,2.75
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L2,S3,Obligatoire,Automatique,Régulation et asservissement,1.5,0.75,5.5,2.75
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L2,S3,Obligatoire,Automatique,Atelier d'automatique,2.5,1.25,5.5,2.75
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L2,S3,Obligatoire,Mécanique 3,Thermodynamique,1.5,0.75,4.5,2.25
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L2,S3,Obligatoire,Mécanique 3,Atelier mécanique 3,1.5,0.75,4.5,2.25
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L2,S3,Obligatoire,Mécanique 3,Mécanique des fluides,1.5,0.75,4.5,2.25
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L2,S3,Obligatoire,Production 1,Atelier production 1,3,1.5,6,3
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L2,S3,Obligatoire,Production 1,Préparation à la fabrication,1.5,0.75,6,3
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L2,S3,Obligatoire,Production 1,Production par CN,1.5,0.75,6,3
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L2,S3,Obligatoire,Unité transversale,Droit de travail,1.5,0.75,5,2.5
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L2,S3,Obligatoire,Unité transversale,Techniques de communication 1,1.5,0.75,5,2.5
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L2,S3,Obligatoire,Unité transversale,Anglais technique 1,2,1,5,2.5
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L2,S3,Optionnelle,Unité optionnelle 2 S3,Atelier CAO,1.5,0.75,4.5,2.25
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L2,S3,Optionnelle,Unité optionnelle 2 S3,Contrôle non destructif,1.5,0.75,4.5,2.25
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L2,S3,Optionnelle,Unité optionnelle 2 S3,Atelier CND,1.5,0.75,4.5,2.25
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L2,S3,Optionnelle,Unité optionnelle 3.2,Mécanique Automobiles,1.5,0.75,4.5,2.25
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L2,S3,Optionnelle,Unité optionnelle 3.2,Sélection de matériaux,1.5,0.75,4.5,2.25
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L2,S3,Optionnelle,Unité optionnelle 3.2,Atelier Sélection des matériaux,1.5,0.75,4.5,2.25
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L2,S4,Obligatoire,Conception 1,Systèmes hydrauliques et pneumatiques,1.5,0.75,5.5,2.75
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L2,S4,Obligatoire,Conception 1,Atelier conception 1,2.5,1.25,5.5,2.75
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L2,S4,Obligatoire,Conception 1,Systèmes mécaniques 1,1.5,0.75,5.5,2.75
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L2,S4,Obligatoire,Industrialisation,Atelier Industrialisation,1.5,0.75,4.5,2.25
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L2,S4,Obligatoire,Industrialisation,Etude de la coupe,1.5,0.75,4.5,2.25
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L2,S4,Obligatoire,Industrialisation,Sécurité industrielle,1.5,0.75,4.5,2.25
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L2,S4,Obligatoire,Production 2,Atelier de production 2,2.5,1.25,5.5,2.75
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L2,S4,Obligatoire,Production 2,Production par CN,1.5,0.75,5.5,2.75
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L2,S4,Obligatoire,Production 2,Métrologie tridimensionnelle,1.5,0.75,5.5,2.75
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L2,S4,Obligatoire,Qualité,Qualité,3,1.5,4.5,2.25
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L2,S4,Obligatoire,Qualité,Atelier de qualité,1.5,0.75,4.5,2.25
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L2,S4,Obligatoire,Unité transversale,Culture entrepreneuriale 1,1.5,0.75,5,2.5
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L2,S4,Obligatoire,Unité transversale,Anglais technique 2,2,1,5,2.5
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L2,S4,Obligatoire,Unité transversale,Technique de communication 2,1.5,0.75,5,2.5
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L2,S4,Optionnelle,Unité optionnelle 4.1,Atelier Conception 2 (CAO),1.5,0.75,5,2.5
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L2,S4,Optionnelle,Unité optionnelle 4.1,Fabrication Additive,2,1,5,2.5
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L2,S4,Optionnelle,Unité optionnelle 4.1,Mini projet CAO,1.5,0.75,5,2.5
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L3,S5,Obligatoire,Conception 2,Méthodologie de la conception,1.5,0.75,5,2.5
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L3,S5,Obligatoire,Conception 2,Systèmes mécaniques 2,1.5,0.75,5,2.5
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L3,S5,Obligatoire,Conception 2,Atelier conception 2,2,1,5,2.5
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L3,S5,Obligatoire,Gestion de la production,Organisation et gestion de la Production,3,1.5,5,2.5
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L3,S5,Obligatoire,Gestion de la production,Atelier Gestion de la production,2,1,5,2.5
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L3,S5,Obligatoire,Production 3,FAO,1.5,0.75,5,2.5
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L3,S5,Obligatoire,Production 3,Production par CN2,1.5,0.75,5,2.5
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L3,S5,Obligatoire,Production 3,Atelier de production,2,1,5,2.5
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L3,S5,Obligatoire,Unité transversale,Anglais technique 3,2,1,5,2.5
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L3,S5,Obligatoire,Unité transversale,Technique de communication 3,1.5,0.75,5,2.5
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L3,S5,Obligatoire,Unité transversale,Culture entrepreneuriale 2,1.5,0.75,5,2.5
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L3,S5,Optionnelle,Unité optionnelle 5.1,Bureau d'études,2,1,5,2.5
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L3,S5,Optionnelle,Unité optionnelle 5.1,Atelier de Conception 2,3,1.5,5,2.5
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L3,S5,Optionnelle,Unité optionnelle 6.1,Conception et dimensionnement chaudronnerie,3,1.5,5,2.5
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L3,S5,Optionnelle,Unité optionnelle 6.1,Chaudronnerie et tuyauterie,2,1,5,2.5
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L3,S6,Obligatoire,Stage,Stage de fin du parcours,20,10,30,15
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L3,S6,Obligatoire,Stage,Stage de perfectionnement,5,2.5,30,15
+Génie Mécanique,Conception et Fabrication Mécanique,LI576407,L3,S6,Obligatoire,Stage,Stage d'initiation,5,2.5,30,15
+Management,Tronc commun,LI560399,L1,S1,Obligatoire,Communication et développement personnel 1,CCN 1,2,1,5,2.5
+Management,Tronc commun,LI560399,L1,S1,Obligatoire,Communication et développement personnel 1,Droit de l'homme,1,0.5,5,2.5
+Management,Tronc commun,LI560399,L1,S1,Obligatoire,Communication et développement personnel 1,Développement des habilités en communication 1,2,1,5,2.5
+Management,Tronc commun,LI560399,L1,S1,Obligatoire,Environnement economique et Juridique 1,Economie générale 1,4,2,6,3
+Management,Tronc commun,LI560399,L1,S1,Obligatoire,Environnement economique et Juridique 1,Introduction au Droit,2,1,6,3
+Management,Tronc commun,LI560399,L1,S1,Obligatoire,Management de l'entreprise 1,Management des organisations,4,2,6,3
+Management,Tronc commun,LI560399,L1,S1,Obligatoire,Management de l'entreprise 1,Atelier Management des organisations,2,1,6,3
+Management,Tronc commun,LI560399,L1,S1,Obligatoire,Outils de gestion 1,Comptabilité Financière 1,4,2,6,3
+Management,Tronc commun,LI560399,L1,S1,Obligatoire,Outils de gestion 1,Mathématique financière 1,2,1,6,3
+Management,Tronc commun,LI560399,L1,S1,Obligatoire,Techniques Quantitatives De gestion,Mathématiques Appliquées,3,1.5,7,3.5
+Management,Tronc commun,LI560399,L1,S1,Obligatoire,Techniques Quantitatives De gestion,Statistiques descriptives,4,2,7,3.5
+Management,Tronc commun,LI560399,L1,S2,Obligatoire,Communication et développement personnel 2,Anglais générale,1,0.5,5,2.5
+Management,Tronc commun,LI560399,L1,S2,Obligatoire,Communication et développement personnel 2,Développement des habilités en communication 2,2,1,5,2.5
+Management,Tronc commun,LI560399,L1,S2,Obligatoire,Communication et développement personnel 2,CCN 2,2,1,5,2.5
+Management,Tronc commun,LI560399,L1,S2,Obligatoire,Environnement Economique et juridique 2,Economie Générale 2,4,2,6,3
+Management,Tronc commun,LI560399,L1,S2,Obligatoire,Environnement Economique et juridique 2,Droit Commercial,2,1,6,3
+Management,Tronc commun,LI560399,L1,S2,Obligatoire,Management de l'entreprise 2,Marketing,4,2,7,3.5
+Management,Tronc commun,LI560399,L1,S2,Obligatoire,Management de l'entreprise 2,Statistique Inférentielles,3,1.5,7,3.5
+Management,Tronc commun,LI560399,L1,S2,Obligatoire,Outils de gestion 2,Atelier Comptabilité informatisée 1,2,1,6,3
+Management,Tronc commun,LI560399,L1,S2,Obligatoire,Outils de gestion 2,Comptabilité Financière 2,4,2,6,3
+Management,Tronc commun,LI560399,L1,S2,Optionnelle,Unité optionnelle 2.1,Animation des équipes,2,1,6,3
+Management,Tronc commun,LI560399,L1,S2,Optionnelle,Unité optionnelle 2.1,Commerce international,2,1,6,3
+Management,Tronc commun,LI560399,L1,S2,Optionnelle,Unité optionnelle 2.1,Système de production,2,1,6,3
+Management,Management,LI560301,L2,S3,Obligatoire,Communication et Développement Personnel III,PPP-Connaissance de soi et Préparation aux métiers,2,1,5,2.5
+Management,Management,LI560301,L2,S3,Obligatoire,Communication et Développement Personnel III,Business English,1,0.5,5,2.5
+Management,Management,LI560301,L2,S3,Obligatoire,Communication et Développement Personnel III,Culture entrepreneuriale,2,1,5,2.5
+Management,Management,LI560301,L2,S3,Obligatoire,Gestion des flux,Gestion des Stocks et des Approvisionnements,3,1.5,7,3.5
+Management,Management,LI560301,L2,S3,Obligatoire,Gestion des flux,Comptabilité analytique Gestion,4,2,7,3.5
+Management,Management,LI560301,L2,S3,Obligatoire,Outils d'aide à la décision,Supplychain Management,2,1,5,2.5
+Management,Management,LI560301,L2,S3,Obligatoire,Outils d'aide à la décision,Atelier études de marché,3,1.5,5,2.5
+Management,Management,LI560301,L2,S3,Obligatoire,Techniques financières et fiscales,Fiscalité d'entreprise,3,1.5,7,3.5
+Management,Management,LI560301,L2,S3,Obligatoire,Techniques financières et fiscales,Analyse financière,4,2,7,3.5
+Management,Management,LI560301,L2,S3,Optionnelle,Unité optionnelle,Atelier Gestion commerciale (Sage),3,1.5,6,3
+Management,Management,LI560301,L2,S3,Optionnelle,Unité optionnelle,Atelier Méthodes et Techniques de Résolution de Problèmes,3,1.5,6,3
+Management,Management,LI560301,L2,S4,Obligatoire,Communication et Développement Personnel III,Entrepreneuriat social,2,1,5,2.5
+Management,Management,LI560301,L2,S4,Obligatoire,Communication et Développement Personnel III,Techniques de recherches d'emplois,2,1,5,2.5
+Management,Management,LI560301,L2,S4,Obligatoire,Communication et Développement Personnel III,Préparation à la certification en Anglais,1,0.5,5,2.5
+Management,Management,LI560301,L2,S4,Obligatoire,Finance à long terme et internationale,Techniques financières internationales,3,1.5,7,3.5
+Management,Management,LI560301,L2,S4,Obligatoire,Finance à long terme et internationale,Choix d'investissement et de financement,4,2,7,3.5
+Management,Management,LI560301,L2,S4,Obligatoire,Gestion sociale et comptable,Gestion des Ressources Humaines,4,2,6,3
+Management,Management,LI560301,L2,S4,Obligatoire,Gestion sociale et comptable,Atelier comptabilité informatisée et paie 2,2,1,6,3
+Management,Management,LI560301,L2,S4,Obligatoire,Management de la performance de la production,Gestion de la Production,3,1.5,6,3
+Management,Management,LI560301,L2,S4,Obligatoire,Management de la performance de la production,Atelier analyse des données,3,1.5,6,3
+Management,Management,LI560301,L2,S4,Optionnelle,Unité optionnelle 4.1,Management QSE,3,1.5,6,3
+Management,Management,LI560301,L2,S4,Optionnelle,Unité optionnelle 4.1,Atelier lean management,3,1.5,6,3
+Management,Management,LI560301,L3,S5,Obligatoire,Communication et développement Personnel V,Préparation à la certification en langue française,1,0.5,5,2.5
+Management,Management,LI560301,L3,S5,Obligatoire,Communication et développement Personnel V,Création d'entreprise,2,1,5,2.5
+Management,Management,LI560301,L3,S5,Obligatoire,Communication et développement Personnel V,Développement des compétences personnelles et professionnelles,2,1,5,2.5
+Management,Management,LI560301,L3,S5,Obligatoire,Environnement de l'entreprise,Atelier outils GRH,3,1.5,6,3
+Management,Management,LI560301,L3,S5,Obligatoire,Environnement de l'entreprise,Atelier simulation et étude de cas,3,1.5,6,3
+Management,Management,LI560301,L3,S5,Obligatoire,Management stratégique de l'entreprise,Stratégique de l'entreprise,3,1.5,7,3.5
+Management,Management,LI560301,L3,S5,Obligatoire,Management stratégique de l'entreprise,Contrôle de gestion,4,2,7,3.5
+Management,Management,LI560301,L3,S5,Optionnelle,Unité optionnelle 1 S5,Techniques de Commerce International,4,2,6,3
+Management,Management,LI560301,L3,S5,Optionnelle,Unité optionnelle 1 S5,Management des projets,2,1,6,3
+Management,Management,LI560301,L3,S5,Optionnelle,Unité optionnelle 2 S5,Entreprise d'entraînement pédagogique (EEP),4,2,6,3
+Management,Management,LI560301,L3,S5,Optionnelle,Unité optionnelle 2 S5,Négociation Commerciale,2,1,6,3
+Management,Management,LI560301,L3,S6,Obligatoire,Stage,Stage d'initiation,5,2.5,30,15
+Management,Management,LI560301,L3,S6,Obligatoire,Stage,Stage de fin de parcours,20,10,30,15
+Management,Management,LI560301,L3,S6,Obligatoire,Stage,Stage de perfectionnement,5,2.5,30,15
+Technologies de l'Informatique,Tronc commun,LI576099,L1,S1,Obligatoire,Algorithmique et Programmation I,Algorithmique et programmation 1,5,2.5,7,3.5
+Technologies de l'Informatique,Tronc commun,LI576099,L1,S1,Obligatoire,Algorithmique et Programmation I,Atelier Programmation,2,1,7,3.5
+Technologies de l'Informatique,Tronc commun,LI576099,L1,S1,Obligatoire,Architecture et système,Systèmes Logiques,2,1,6,3
+Technologies de l'Informatique,Tronc commun,LI576099,L1,S1,Obligatoire,Architecture et système,Architecture des ordinateurs,2,1,6,3
+Technologies de l'Informatique,Tronc commun,LI576099,L1,S1,Obligatoire,Architecture et système,Atelier Systèmes Logiques,2,1,6,3
+Technologies de l'Informatique,Tronc commun,LI576099,L1,S1,Obligatoire,Culture et langues,Technique d'expression 1,1,0.5,5,2.5
+Technologies de l'Informatique,Tronc commun,LI576099,L1,S1,Obligatoire,Culture et langues,English for computing 1,2,1,5,2.5
+Technologies de l'Informatique,Tronc commun,LI576099,L1,S1,Obligatoire,Culture et langues,Certificat en compétence Numérique,1,0.5,5,2.5
+Technologies de l'Informatique,Tronc commun,LI576099,L1,S1,Obligatoire,Culture et langues,Business culture,1,0.5,5,2.5
+Technologies de l'Informatique,Tronc commun,LI576099,L1,S1,Obligatoire,Développement web et multimédia I,Atelier Développement web et multimédia I,2,1,4,2
+Technologies de l'Informatique,Tronc commun,LI576099,L1,S1,Obligatoire,Développement web et multimédia I,Développement web et multimédia I,2,1,4,2
+Technologies de l'Informatique,Tronc commun,LI576099,L1,S1,Obligatoire,Mathématiques appliquées 1,Atelier mathématiques appliquées,2,1,4,2
+Technologies de l'Informatique,Tronc commun,LI576099,L1,S1,Obligatoire,Mathématiques appliquées 1,Mathématiques Appliquées,2,1,4,2
+Technologies de l'Informatique,Tronc commun,LI576099,L1,S1,Optionnelle,Unité optionnelle 1.4,Robotique (ARDUINO),2,1,4,2
+Technologies de l'Informatique,Tronc commun,LI576099,L1,S1,Optionnelle,Unité optionnelle 1.4,Soft Skills,2,1,4,2
+Technologies de l'Informatique,Tronc commun,LI576099,L1,S2,Obligatoire,Algorithmique et programmation II,Atelier programmation II,2,1,5,2.5
+Technologies de l'Informatique,Tronc commun,LI576099,L1,S2,Obligatoire,Algorithmique et programmation II,Algorithmique et programmation II,3,1.5,5,2.5
+Technologies de l'Informatique,Tronc commun,LI576099,L1,S2,Obligatoire,Culture et langues,Préparation aux métiers,1,0.5,4,2
+Technologies de l'Informatique,Tronc commun,LI576099,L1,S2,Obligatoire,Culture et langues,Techniques d'expression 2,1,0.5,4,2
+Technologies de l'Informatique,Tronc commun,LI576099,L1,S2,Obligatoire,Culture et langues,English for computing 2,2,1,4,2
+Technologies de l'Informatique,Tronc commun,LI576099,L1,S2,Obligatoire,Développement web et multimédia II,Atelier Développement web et Multimédia II,3,1.5,5,2.5
+Technologies de l'Informatique,Tronc commun,LI576099,L1,S2,Obligatoire,Développement web et multimédia II,Développement web et Multimédia II,2,1,5,2.5
+Technologies de l'Informatique,Tronc commun,LI576099,L1,S2,Obligatoire,Mathématique appliquée II,Statistiques et Probabilités,2,1,4,2
+Technologies de l'Informatique,Tronc commun,LI576099,L1,S2,Obligatoire,Mathématique appliquée II,Recherche opérationnelle,2,1,4,2
+Technologies de l'Informatique,Tronc commun,LI576099,L1,S2,Obligatoire,Système I et Réseaux,Atelier systèmes 1,2,1,7,3.5
+Technologies de l'Informatique,Tronc commun,LI576099,L1,S2,Obligatoire,Système I et Réseaux,Fondements des Réseaux,3,1.5,7,3.5
+Technologies de l'Informatique,Tronc commun,LI576099,L1,S2,Obligatoire,Système I et Réseaux,Systèmes d'exploitation,2,1,7,3.5
+Technologies de l'Informatique,Tronc commun,LI576099,L1,S2,Optionnelle,Unité optionnelle 2.3,Atelier PYTHON,2,1,5,2.5
+Technologies de l'Informatique,Tronc commun,LI576099,L1,S2,Optionnelle,Unité optionnelle 2.3,Introduction à l'IA,2,1,5,2.5
+Technologies de l'Informatique,Tronc commun,LI576099,L1,S2,Optionnelle,Unité optionnelle 2.3,CCN 2,1,0.5,5,2.5
+Technologies de l'Informatique,Développement des Systèmes d'information,LI576002,L2,S3,Obligatoire,Base de données,Atelier Base de Données,2,1,4,2
+Technologies de l'Informatique,Développement des Systèmes d'information,LI576002,L2,S3,Obligatoire,Base de données,Bases de Données,2,1,4,2
+Technologies de l'Informatique,Développement des Systèmes d'information,LI576002,L2,S3,Obligatoire,Communication et langues,Communication en entreprise,2,1,6,3
+Technologies de l'Informatique,Développement des Systèmes d'information,LI576002,L2,S3,Obligatoire,Communication et langues,High tech english,2,1,6,3
+Technologies de l'Informatique,Développement des Systèmes d'information,LI576002,L2,S3,Obligatoire,Communication et langues,Droit de l'information et propriétés intellectuelles,2,1,6,3
+Technologies de l'Informatique,Développement des Systèmes d'information,LI576002,L2,S3,Obligatoire,Conception Objet,Modélisation Objet UML 2,4,2,4,2
+Technologies de l'Informatique,Développement des Systèmes d'information,LI576002,L2,S3,Obligatoire,Développement web,Atelier framework coté client,2,1,4,2
+Technologies de l'Informatique,Développement des Systèmes d'information,LI576002,L2,S3,Obligatoire,Développement web,Atelier framework coté serveur,2,1,4,2
+Technologies de l'Informatique,Développement des Systèmes d'information,LI576002,L2,S3,Obligatoire,Programmation Objet,Atelier programmation Objet,3,1.5,5,2.5
+Technologies de l'Informatique,Développement des Systèmes d'information,LI576002,L2,S3,Obligatoire,Programmation Objet,Programmation Objet,2,1,5,2.5
+Technologies de l'Informatique,Développement des Systèmes d'information,LI576002,L2,S3,Optionnelle,Unité optionnelle 3.2,Atelier Machine Learning,5,2.5,7,3.5
+Technologies de l'Informatique,Développement des Systèmes d'information,LI576002,L2,S3,Optionnelle,Unité optionnelle 3.2,Machine Learning,2,1,7,3.5
+Technologies de l'Informatique,Développement des Systèmes d'information,LI576002,L2,S4,Obligatoire,Architecture logicielle,Atelier Environnement de Développement,2,1,4,2
+Technologies de l'Informatique,Développement des Systèmes d'information,LI576002,L2,S4,Obligatoire,Architecture logicielle,Architecture logicielle,2,1,4,2
+Technologies de l'Informatique,Développement des Systèmes d'information,LI576002,L2,S4,Obligatoire,Cultures et Langues,Préparation à la certification en français,2,1,6,3
+Technologies de l'Informatique,Développement des Systèmes d'information,LI576002,L2,S4,Obligatoire,Cultures et Langues,Etude et management de projets innovants,2,1,6,3
+Technologies de l'Informatique,Développement des Systèmes d'information,LI576002,L2,S4,Obligatoire,Cultures et Langues,Business english,2,1,6,3
+Technologies de l'Informatique,Développement des Systèmes d'information,LI576002,L2,S4,Obligatoire,Développement web,Projet d'intégration,2,1,4,2
+Technologies de l'Informatique,Développement des Systèmes d'information,LI576002,L2,S4,Obligatoire,Développement web,Atelier framework coté serveur,2,1,4,2
+Technologies de l'Informatique,Développement des Systèmes d'information,LI576002,L2,S4,Obligatoire,Programmation Objet Avancée,Programmation Objet Avancée,1.5,0.75,4.5,2.25
+Technologies de l'Informatique,Développement des Systèmes d'information,LI576002,L2,S4,Obligatoire,Programmation Objet Avancée,Atelier Programmation Objet Avancée,3,1.5,4.5,2.25
+Technologies de l'Informatique,Développement des Systèmes d'information,LI576002,L2,S4,Obligatoire,SGB,Atelier SGBD,3,1.5,4.5,2.25
+Technologies de l'Informatique,Développement des Systèmes d'information,LI576002,L2,S4,Obligatoire,SGB,SGBD,1.5,0.75,4.5,2.25
+Technologies de l'Informatique,Développement des Systèmes d'information,LI576002,L2,S4,Optionnelle,Unité optionnelle 4.5,Génie logiciel,3,1.5,7,3.5
+Technologies de l'Informatique,Développement des Systèmes d'information,LI576002,L2,S4,Optionnelle,Unité optionnelle 4.5,Outils Devops,2,1,7,3.5
+Technologies de l'Informatique,Développement des Systèmes d'information,LI576002,L2,S4,Optionnelle,Unité optionnelle 4.5,La sécurité applicative,2,1,7,3.5
+Technologies de l'Informatique,Développement des Systèmes d'information,LI576023,L3,S5,Obligatoire,Culture et langues,Preparing TOEIC,2,1,4,2
+Technologies de l'Informatique,Développement des Systèmes d'information,LI576023,L3,S5,Obligatoire,Culture et langues,Technique de recherche d'emploi et marketing de soi,2,1,4,2
+Technologies de l'Informatique,Développement des Systèmes d'information,LI576023,L3,S5,Obligatoire,Développement mobile et web,Développement Mobile,2,1,6,3
+Technologies de l'Informatique,Développement des Systèmes d'information,LI576023,L3,S5,Obligatoire,Développement mobile et web,Atelier Développement Mobile,2,1,6,3
+Technologies de l'Informatique,Développement des Systèmes d'information,LI576023,L3,S5,Obligatoire,Développement mobile et web,Atelier Framework cross-platform,2,1,6,3
+Technologies de l'Informatique,Développement des Systèmes d'information,LI576023,L3,S5,Obligatoire,Gestion de Données Avancées,Gestion des données Massives,2,1,4,2
+Technologies de l'Informatique,Développement des Systèmes d'information,LI576023,L3,S5,Obligatoire,Gestion de Données Avancées,Atelier Base de données Avancée,2,1,4,2
+Technologies de l'Informatique,Développement des Systèmes d'information,LI576023,L3,S5,Obligatoire,Méthodologie de conception,Méthodologie de conception Objet,2,1,4,2
+Technologies de l'Informatique,Développement des Systèmes d'information,LI576023,L3,S5,Obligatoire,Méthodologie de conception,Projet d'integration,2,1,4,2
+Technologies de l'Informatique,Développement des Systèmes d'information,LI576023,L3,S5,Obligatoire,SOA (Architecture orientée service),SOA,3,1.5,5,2.5
+Technologies de l'Informatique,Développement des Systèmes d'information,LI576023,L3,S5,Obligatoire,SOA (Architecture orientée service),Atelier SOA,2,1,5,2.5
+Technologies de l'Informatique,Développement des Systèmes d'information,LI576023,L3,S5,Optionnelle,Unité optionnelle 5.2,Test et validation,2,1,7,3.5
+Technologies de l'Informatique,Développement des Systèmes d'information,LI576023,L3,S5,Optionnelle,Unité optionnelle 5.2,Atelier BI,3,1.5,7,3.5
+Technologies de l'Informatique,Développement des Systèmes d'information,LI576023,L3,S5,Optionnelle,Unité optionnelle 5.2,Fondement IOT,2,1,7,3.5

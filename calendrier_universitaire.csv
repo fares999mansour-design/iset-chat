@@ -1,0 +1,68 @@
+﻿Annee_Universitaire,Cycle,Axe_Principal,Mois,Annee,Jour_Debut,Jour_Fin,Date_Debut,Date_Fin,Type_Evenement,Intitule_FR
+2026/2027,Licence,Premier semestre,Septembre,2026,1,1,2026-09-01,2026-09-01,Rentrée / Événement,Rentrée officielle
+2026/2027,Licence,Premier semestre,Septembre,2026,1,5,2026-09-01,2026-09-05,Semaine de cours,Semaine 1
+2026/2027,Licence,Premier semestre,Septembre,2026,7,12,2026-09-07,2026-09-12,Semaine de cours,Semaine 2
+2026/2027,Licence,Premier semestre,Septembre,2026,14,19,2026-09-14,2026-09-19,Semaine de cours,Semaine 3
+2026/2027,Licence,Premier semestre,Septembre,2026,21,26,2026-09-21,2026-09-26,Semaine de cours,Semaine 4
+2026/2027,Licence,Premier semestre,Septembre,2026,28,30,2026-09-28,2026-09-30,Semaine de cours,Semaine 5 (début)
+2026/2027,Licence,Premier semestre,Octobre,2026,1,3,2026-10-01,2026-10-03,Semaine de cours,Semaine 5 (suite)
+2026/2027,Licence,Premier semestre,Octobre,2026,5,10,2026-10-05,2026-10-10,Semaine de cours,Semaine 6
+2026/2027,Licence,Premier semestre,Octobre,2026,12,14,2026-10-12,2026-10-14,Semaine de cours,Semaine 7 (début)
+2026/2027,Licence,Premier semestre,Octobre,2026,15,15,2026-10-15,2026-10-15,Jour férié / Fête,Fête de l'Évacuation
+2026/2027,Licence,Premier semestre,Octobre,2026,16,17,2026-10-16,2026-10-17,Semaine de cours,Semaine 7 (suite)
+2026/2027,Licence,Premier semestre,Octobre,2026,19,24,2026-10-19,2026-10-24,Semaine de cours,Semaine 8
+2026/2027,Licence,Premier semestre,Octobre,2026,26,31,2026-10-26,2026-10-31,Examens / Évaluation,Devoirs de contrôle
+2026/2027,Licence,Premier semestre,Novembre,2026,2,7,2026-11-02,2026-11-07,Semaine de cours,Semaine 10
+2026/2027,Licence,Premier semestre,Novembre,2026,9,14,2026-11-09,2026-11-14,Semaine de cours,Semaine 11
+2026/2027,Licence,Premier semestre,Novembre,2026,16,21,2026-11-16,2026-11-21,Semaine de cours,Semaine 12
+2026/2027,Licence,Premier semestre,Novembre,2026,23,28,2026-11-23,2026-11-28,Semaine de cours,Semaine 13
+2026/2027,Licence,Premier semestre,Novembre,2026,30,30,2026-11-30,2026-11-30,Semaine de cours,Semaine 14 (début)
+2026/2027,Licence,Premier semestre,Décembre,2026,1,2,2026-12-01,2026-12-02,Semaine de cours,Semaine 14 (suite)
+2026/2027,Licence,Premier semestre,Décembre,2026,3,3,2026-12-03,2026-12-03,Arrêt des cours,Arrêt des cours
+2026/2027,Licence,Premier semestre,Décembre,2026,4,7,2026-12-04,2026-12-07,Révision,Période de révision
+2026/2027,Licence,Premier semestre,Décembre,2026,8,12,2026-12-08,2026-12-12,Examens / Évaluation,Devoirs de synthèse
+2026/2027,Licence,Premier semestre,Décembre,2026,14,31,2026-12-14,2026-12-31,Vacances,Vacances d'hiver (partie 1)
+2026/2027,Licence,Premier semestre,Janvier,2027,1,1,2027-01-01,2027-01-01,Jour férié / Fête,Jour de l'an / Nouvel an
+2026/2027,Licence,Stages,Janvier,2027,2,2,2027-01-02,2027-01-02,Stages,Stages Semaine 1
+2026/2027,Licence,Stages,Janvier,2027,4,9,2027-01-04,2027-01-09,Stages,Stages Semaine 2
+2026/2027,Licence,Premier semestre,Janvier,2027,11,13,2027-01-11,2027-01-13,Délibérations,"Délibérations L1, L2 et L3"
+2026/2027,Licence,Stages,Janvier,2027,14,16,2027-01-14,2027-01-16,Stages,Stages Semaine 3
+2026/2027,Licence,Stages,Janvier,2027,18,23,2027-01-18,2027-01-23,Stages,Stages Semaine 4
+2026/2027,Licence,Deuxième semestre,Janvier,2027,25,26,2027-01-25,2027-01-26,Démarrage / Stages PFE,Démarrage S2 : L1 et L2 / Stages PFE : L3
+2026/2027,Licence,Deuxième semestre,Janvier,2027,27,30,2027-01-27,2027-01-30,Semaine de cours,Semaine 1 (début)
+2026/2027,Licence,Deuxième semestre,Février,2027,1,6,2027-02-01,2027-02-06,Semaine de cours,Semaine 2
+2026/2027,Licence,Deuxième semestre,Février,2027,8,13,2027-02-08,2027-02-13,Semaine de cours,Semaine 3
+2026/2027,Licence,Deuxième semestre,Février,2027,15,20,2027-02-15,2027-02-20,Semaine de cours,Semaine 4
+2026/2027,Licence,Deuxième semestre,Février,2027,22,27,2027-02-22,2027-02-27,Semaine de cours,Semaine 5
+2026/2027,Licence,Deuxième semestre,Mars,2027,1,3,2027-03-01,2027-03-03,Semaine de cours,Semaine 6 (début)
+2026/2027,Licence,Deuxième semestre,Mars,2027,4,6,2027-03-04,2027-03-06,Semaine de cours,Semaine 6 (suite)
+2026/2027,Licence,Deuxième semestre,Mars,2027,8,9,2027-03-08,2027-03-09,Semaine de cours,Semaine 7 (début)
+2026/2027,Licence,Deuxième semestre,Mars,2027,10,10,2027-03-10,2027-03-10,Jour férié / Fête,Aïd El Fitr
+2026/2027,Licence,Deuxième semestre,Mars,2027,15,19,2027-03-15,2027-03-19,Semaine de cours,Semaine 8
+2026/2027,Licence,Deuxième semestre,Mars,2027,22,31,2027-03-22,2027-03-31,Vacances,Vacances du printemps (partie 1)
+2026/2027,Licence,Deuxième semestre,Avril,2027,1,4,2027-04-01,2027-04-04,Vacances,Vacances du printemps (partie 2)
+2026/2027,Licence,Deuxième semestre,Avril,2027,5,7,2027-04-05,2027-04-07,Examens / Évaluation,Devoirs de contrôle (partie 1)
+2026/2027,Licence,Deuxième semestre,Avril,2027,8,8,2027-04-08,2027-04-08,Jour férié / Fête,Fête des Martyrs
+2026/2027,Licence,Deuxième semestre,Avril,2027,9,10,2027-04-09,2027-04-10,Examens / Évaluation,Devoirs de contrôle (partie 2)
+2026/2027,Licence,Deuxième semestre,Avril,2027,12,17,2027-04-12,2027-04-17,Semaine de cours,Semaine 10
+2026/2027,Licence,Deuxième semestre,Avril,2027,19,24,2027-04-19,2027-04-24,Semaine de cours,Semaine 11
+2026/2027,Licence,Deuxième semestre,Avril,2027,26,30,2027-04-26,2027-04-30,Semaine de cours,Semaine 12 (début)
+2026/2027,Licence,Deuxième semestre,Mai,2027,1,1,2027-05-01,2027-05-01,Jour férié / Fête,Fête du Travail
+2026/2027,Licence,Deuxième semestre,Mai,2027,3,4,2027-05-03,2027-05-04,Semaine de cours,Semaine 13 (début)
+2026/2027,Licence,Deuxième semestre,Mai,2027,5,8,2027-05-05,2027-05-08,Semaine de cours,Semaine 13 (suite)
+2026/2027,Licence,Deuxième semestre,Mai,2027,10,14,2027-05-10,2027-05-14,Semaine de cours,Semaine 14
+2026/2027,Licence,Deuxième semestre,Mai,2027,15,15,2027-05-15,2027-05-15,Arrêt des cours,Arrêt des cours
+2026/2027,Licence,Deuxième semestre,Mai,2027,16,16,2027-05-16,2027-05-16,Jour férié / Fête,Aïd El Adha
+2026/2027,Licence,Deuxième semestre,Mai,2027,17,22,2027-05-17,2027-05-22,Rattrapage et Révision,Rattrapage + Révision
+2026/2027,Licence,Deuxième semestre,Mai,2027,24,29,2027-05-24,2027-05-29,Examens / Évaluation,Devoirs de synthèse
+2026/2027,Licence,Deuxième semestre,Mai,2027,31,31,2027-05-31,2027-05-31,Soutenances PFE,Soutenances des PFEs (début)
+2026/2027,Licence,Deuxième semestre,Juin,2027,1,5,2027-06-01,2027-06-05,Soutenances PFE,Soutenances des PFEs (suite)
+2026/2027,Licence,Deuxième semestre,Juin,2027,7,12,2027-06-07,2027-06-12,Administration / Notes,Vérification des notes
+2026/2027,Licence,Deuxième semestre,Juin,2027,14,16,2027-06-14,2027-06-16,Administration / PVs,Préparation des PVs
+2026/2027,Licence,Deuxième semestre,Juin,2027,17,19,2027-06-17,2027-06-19,Délibérations,"Délibérations L1, L2 et L3"
+2026/2027,Licence,Deuxième semestre,Juin,2027,21,21,2027-06-21,2027-06-21,Résultats,Affichage des résultats
+2026/2027,Licence,Deuxième semestre,Juin,2027,22,26,2027-06-22,2027-06-26,Réclamations / Notes,Demandes de correction des notes
+2026/2027,Licence,Deuxième semestre,Juin,2027,28,30,2027-06-28,2027-06-30,Réclamations / Notes,Traitement des réclamations (début)
+2026/2027,Licence,Deuxième semestre,Juillet,2027,1,3,2027-07-01,2027-07-03,Réclamations / Notes,Traitement des réclamations (suite)
+2026/2027,Licence,Deuxième semestre,Juillet,2027,5,7,2027-07-05,2027-07-07,Documents officiels,Remise des attestations et des relevés
+2026/2027,Licence,Deuxième semestre,Juillet,2027,8,8,2027-07-08,2027-07-08,Documents officiels,Remise des diplômes
